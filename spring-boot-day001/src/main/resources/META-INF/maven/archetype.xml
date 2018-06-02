@@ -1,0 +1,7 @@
+<archetype>
+  <id>spring-boot-day001</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+
+</archetype>
